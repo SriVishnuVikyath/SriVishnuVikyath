@@ -46,14 +46,14 @@ me.say_hi()
 
 ## 🚀 Featured Projects
 
-> *(Replace the placeholders below with your actual projects!)*
-
+<!-- *(Replace the placeholders below with your actual projects!)*
+-->
 | 🗂️ Project | 📝 Description | 🛠️ Tech |
 |------------|---------------|---------|
-| [Project Name](https://github.com/SriVishnuVikyath) | Short description of what it does | Python, ML |
-| [Project Name](https://github.com/SriVishnuVikyath) | Short description of what it does | C++, Algorithms |
+| [Chowka_bara](https://github.com/SriVishnuVikyath) | An implementation of the Indian traditional board game Chowka_bara on a GUI with 2 or more player support. | Python, Pygame |
+<!--| [Project Name](https://github.com/SriVishnuVikyath) | Short description of what it does | C++, Algorithms |
 | [Project Name](https://github.com/SriVishnuVikyath) | Short description of what it does | HTML, CSS, JS |
-
+-->
 🔗 **Browse all** → [github.com/SriVishnuVikyath?tab=repositories](https://github.com/SriVishnuVikyath?tab=repositories)
 
 ---
